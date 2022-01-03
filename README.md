@@ -3,7 +3,7 @@
 <html lang="en">
 	
 <head>
-<h1> <center>Feedback Form - KYLE YUEN 
+<h1> <center> KYLE YUEN 
 </head>
 <body>
 <body style="background-color:rgb(200, 224, 237);">
